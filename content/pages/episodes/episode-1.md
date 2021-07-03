@@ -2,9 +2,6 @@
 title: >-
   En La Radio Pública de Marcos Paz Carlos "Charly" Tobar, precandidato a
   intendente
-subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
 date: '2020-07-15'
 categories:
   - content/data/categories/season-1.yaml
