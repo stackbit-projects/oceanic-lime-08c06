@@ -27,7 +27,7 @@
             },
             {
                 "label": "|Recorrido|",
-                "url": "/EPISODES",
+                "url": "/episodes",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
