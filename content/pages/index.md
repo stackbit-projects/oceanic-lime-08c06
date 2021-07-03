@@ -8,7 +8,7 @@ sections:
       Podcast y + Info para seguir la marcha de la revolución política
       vocacional, que comenzamos en José C. Paz, Marcos Paz y Pilar
     actions:
-      - label: Subscribe to Podcast
+      - label: Suscribir al Podcast
         url: /thank-you
         style: primary
     image: /images/heroe.png
