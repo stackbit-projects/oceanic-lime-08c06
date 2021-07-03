@@ -26,7 +26,7 @@
                 "style": "link"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "|Recorrido|",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
