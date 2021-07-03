@@ -34,7 +34,8 @@
                 "url": "/subscribe",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/clever-sun.png"
     },
     "footer": {
         "logo": "images/logo.svg",
