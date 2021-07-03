@@ -11,9 +11,6 @@ thumb_image_alt: Podcast 1 placeholder image
 image: images/post-1.jpg
 image_alt: Podcast 1 placeholder image
 image_position: left
-episode_embed_html: >-
-  <iframe width="100%" height="166" scrolling="no" frameborder="no"
-  allow="autoplay" src="https://w.soundcloud.com/player/?
 seo:
   title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
   description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
