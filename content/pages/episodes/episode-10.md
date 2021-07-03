@@ -8,7 +8,6 @@ categories:
   - content/data/categories/season-2.yaml
 thumb_image: images/post-10.jpg
 thumb_image_alt: Episode 10 placeholder image
-image: /images/WhatsApp Image 2021-07-03 at 16.49.07.jpeg
 image_alt: Episode 10 placeholder image
 image_position: right
 episode_embed_html: >-
