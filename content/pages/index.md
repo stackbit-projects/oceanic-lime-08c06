@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Esto es Vocación Social Podcast
-    subtitle: Optional hero section subtitle
+    subtitle: El partido político más joven del conurbano.
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
