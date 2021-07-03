@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Esto es Vocación Social Podcast
     subtitle: El partido político más joven del conurbano.
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+    content: >
+      A podcast para seguir la marcha de la revolución política vocacional, que
+      comenzamos en José C. Paz, Marcos Paz y Pilar
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
