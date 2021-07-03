@@ -5,8 +5,8 @@ sections:
     title: Esto es Vocación Social Podcast
     subtitle: El partido político más joven del conurbano.
     content: >
-      A podcast para seguir la marcha de la revolución política vocacional, que
-      comenzamos en José C. Paz, Marcos Paz y Pilar
+      Podcast y + Info para seguir la marcha de la revolución política
+      vocacional, que comenzamos en José C. Paz, Marcos Paz y Pilar
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
