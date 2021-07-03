@@ -3,7 +3,7 @@ title: Episodes
 sections:
   - type: hero_section
     title: Recorrido
-    subtitle: List of episodes in order
+    subtitle: Línea de tiempo
     align: center
     padding_top: medium
     padding_bottom: small
