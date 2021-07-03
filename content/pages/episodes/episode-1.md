@@ -1,10 +1,7 @@
 ---
 title: >-
-  Desde el Sistema de Medios Públicos de Marcos Paz continuamos con el circuito
-  de entrevistas radiales a los pre-candidatos a intendente de Marcos Paz,
-  garantizando el pluralismo informativo. En el día de hoy visitó el estudio de
-  La Radio Pública de Marcos Paz Carlos "Charly" Tobar, precandidato a
-  intendente por
+  En el día de hoy visitó el estudio de La Radio Pública de Marcos Paz Carlos
+  "Charly" Tobar, precandidato a intendente
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
