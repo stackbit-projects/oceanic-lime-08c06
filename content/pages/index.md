@@ -196,7 +196,7 @@ seo:
       value: Llegó la nueva Política
       keyName: property
     - name: 'og:description'
-      value: The preview of the Podcaster theme
+      value: Vocación Social nos lleva y nos espera.!!
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/barreto-cintia.jpg
