@@ -199,7 +199,7 @@ seo:
       value: The preview of the Podcaster theme
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: /_static/app-assets/images/barreto-cintia.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
