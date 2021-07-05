@@ -187,7 +187,7 @@ sections:
     background_image_opacity: 98
 seo:
   title: Vocación Social Web
-  description: The preview of the Podcaster theme
+  description: Plataforma Política y Social
   extra:
     - name: 'og:type'
       value: website
