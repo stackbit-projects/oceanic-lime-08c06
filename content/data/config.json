@@ -122,7 +122,7 @@
     "announcement": {
         "has_anncmnt": true,
         "anncmnt_content": "Somos lo Nuevo por que somos con vos.\n",
-        "anncmnt_align": "right",
+        "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-episode"
