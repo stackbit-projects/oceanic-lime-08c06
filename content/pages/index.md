@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Esto es Vocación Social Podcast
+    title: Esto es Vocación Social
     subtitle: El partido político más joven del conurbano.
     content: >
       Podcast y + Info para seguir la marcha de la revolución política
