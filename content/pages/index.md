@@ -11,7 +11,7 @@ sections:
       - label: Suscribir al Podcast
         url: /thank-you
         style: primary
-    image: /images/marvelous-iron.png
+    image: /images/green-sage.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
