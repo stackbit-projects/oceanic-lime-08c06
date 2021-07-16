@@ -141,7 +141,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     has_border: true
-    background_color: none
+    background_color: primary
   - type: form_section
     content: >-
       ## Ask A Question
