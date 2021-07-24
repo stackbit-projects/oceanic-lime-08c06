@@ -6,7 +6,7 @@ subtitle: >-
 date: '2021-07-17'
 categories:
   - content/data/categories/season-1.yaml
-thumb_image: images/post-8.jpg
+thumb_image: /images/Charly.jpg
 thumb_image_alt: Episode 8 placeholder image
 image: images/post-8.jpg
 image_alt: Episode 8 placeholder image
