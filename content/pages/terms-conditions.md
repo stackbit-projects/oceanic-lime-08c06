@@ -21,13 +21,6 @@ seo:
       value: This is the terms and conditions page
 layout: page
 ---
-\<script data-b24-form="inline/1/hgooc5" data-skip-moving="true">
-        (function(w,d,u){
-                var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
-                var h=d.getElementsByTagName('script')\[0];h.parentNode.insertBefore(s,h);
-        })(window,document,'https://cdn.bitrix24.es/b18244741/crm/form/loader\_1.js');
-\</script>
-
 
 
 ## Phasellus Finibus Risus Eget
